@@ -14,6 +14,11 @@ Wechaty-Mail is an application based on Wechaty which can help you get notificat
   - Make sure your environment configuration is OK
   - Run Wechaty successfully :)
 
+# A Video Guide
+<div align="center">
+<a target="_blank" href="https://v.qq.com/x/page/j0515ptndmu.html"><img src="https://github.com/wnbupt/doubanAPP/blob/master/images/wechaty_mail.png?raw=true" border=0 width="60%"></a>
+</div>
+
 # Email Settings
 In order to receive mail in WeChat successfully, we need to authorize the mailbox and turn on the **IMAP** service.
 
